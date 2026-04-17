@@ -1,6 +1,8 @@
 # @wbsender/sdk
 
-Official JavaScript / TypeScript SDK for the **WbSender WhatsApp Marketing API**.
+Official JavaScript / TypeScript SDK for the **[WbSender](https://www.wbsender.ai/) WhatsApp Marketing API**.
+
+> **⚠️ Access Required:** This SDK requires an active WbSender subscription. API keys are only available to subscribed users. [Sign up at wbsender.ai →](https://www.wbsender.ai/)
 
 - **Zero runtime dependencies** — uses the native `fetch` API
 - **Full TypeScript support** — CJS + ESM + `.d.ts` bundled
